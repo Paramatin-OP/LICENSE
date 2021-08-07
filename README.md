@@ -63,4 +63,4 @@ modification follow.
 
 
 
-For More Details Visit [Official GNU Website](www.gnu.org/licenses/) OR [License on this Repository](https://github.com/Paramatin-OP/LICENSE/blob/main/LICENSE)                   
+For More Details Visit [Official GNU Website](https://www.gnu.org/licenses/) OR [License on this Repository](https://github.com/Paramatin-OP/LICENSE/blob/main/LICENSE)                   
